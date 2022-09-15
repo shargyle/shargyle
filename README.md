@@ -1,16 +1,20 @@
-### Hi there 👋
+# About Me
+My name is Seth Argyle. I am an aspiring data science--a multidisciplinary field I didn't know existed just four years ago. Now, my education and work focus on developing the ability to extract valuable insights from the inundation of data in our world today.
 
-<!--
-**shargyle/shargyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Education
+##### Bachelor of Science: Statistics, Emphasis in Data Science -- Brigham Young University
 
-Here are some ideas to get you started:
+### Work
+##### Data Analytics Intern -- MasterControl, Inc.
+##### Data Science Research Assistant -- Brigham Young University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+
+
+
+### Interests
+
+
+
+### Values
+
