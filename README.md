@@ -9,12 +9,13 @@ My name is Seth Argyle. I am an aspiring data science--a multidisciplinary field
 ##### Data Science Research Assistant -- Brigham Young University
 
 ### Skills
+##### Fast learner
+##### Purpose-centered
+##### Diligent goal-setter and planner
+##### Proacitvely accountable
 
-
-
-### Interests
-
-
-
-### Values
+### Personal
+##### Lockdown defender in basketball
+##### Long-distance runner
+##### Raised dairy goats with family for ten years
 
